@@ -1,0 +1,6 @@
+123 456 789
+1.1
+true
+false
+english test
+中文测试
